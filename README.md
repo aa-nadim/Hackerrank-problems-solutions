@@ -1,3 +1,4 @@
 # Hackerrank-problems-solutions
 
-My Hackerrank Handle == https://www.hackerrank.com/Garbage__Value
+## MyHackerrankHandle
+[Garbage__Value](https://www.hackerrank.com/Garbage__Value)
